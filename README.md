@@ -1,2 +1,2 @@
 # Clima
-Application which can show temperature on the basis of your current location or you can also select any city.
+Application which shows temperature on the basis of your current location or a city you can select.
